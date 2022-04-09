@@ -51,7 +51,7 @@
     "history": "^4.10.1",
     "jquery": "3.5.0",
     "json-api-normalizer": "^1.0.0",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.6.2",
     "query-string": "^6.13.1",
     "react": "^16.13.1",
